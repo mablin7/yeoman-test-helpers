@@ -1,0 +1,14 @@
+{
+  "name": "yeoman-test-helpers",
+  "version": "1.0.0",
+  "description": "A set of helpers to make writing tests for yeoman generators even easier",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "yeoman-test": "^1.9.1"
+  },
+  "author": "mablin7",
+  "license": "MIT"
+}

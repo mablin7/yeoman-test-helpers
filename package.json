@@ -1,13 +1,17 @@
 {
   "name": "yeoman-test-helpers",
   "version": "1.0.0",
-  "description": "A set of helpers to make writing tests for yeoman generators even easier",
+  "description": "A very simple set of helper functions for testing yeoman generators",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "yeoman-test": "^1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mablin7/yeoman-test-helpers.git"
   },
   "author": "mablin7",
   "license": "MIT"
